@@ -1,5 +1,12 @@
 package edu.wctc.jsadi;
 
+/**
+ * This is the driver class for this package.
+ * It creates an instance of the Startup class, then modifies and prints information from the Person instances in the Startup.
+ * Created by jsadi on 9/15/2018
+ * @author Jordan Sadi
+ * @version 2018 0915 .3
+ */
 public class Main {
 
     public static void main(String[] args) {
